@@ -1,5 +1,5 @@
 # NewsWebsite
-Anguarl Front Ent Project inside NewWebsiteApi=>client project folder and it is shared with the required email
+Anguarl FrontEnt Project esists inside NewWebsiteApi=>client project folder and it is shared with the required email
 CV is attached inside NewWebsiteApi=>CV folder
 
 after clone this repo to run the project successfully 
